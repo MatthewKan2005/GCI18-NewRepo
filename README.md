@@ -1,9 +1,11 @@
 # GCI18-NewRepo
 
-#Purpose
+# How to use
 
-This is a repository created for the Google Code-In Task.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-#Details
+# How to contribute
 
-The organisation issuing the task is Sustainable Computing Research Lab (SCoRe).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
